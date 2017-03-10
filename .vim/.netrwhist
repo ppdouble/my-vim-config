@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/codc/Library/Application Support/CrossOver/desktopdata/CrossOver-0'
+let g:netrw_dirhist_2='/Applications/CrossOver.app/Contents'
+let g:netrw_dirhist_3='/Users/codc/.goldendict/styles'
+let g:netrw_dirhist_4='/Users/codc/cppwork'
+let g:netrw_dirhist_5='/Users/codc'
+let g:netrw_dirhist_6='/Users/codc/.vim/colors'
+let g:netrw_dirhist_7='/Volumes/MACDOC/works/git/cm'
+let g:netrw_dirhist_8='/Volumes/NO NAME/我的文件/导师布置'
+let g:netrw_dirhist_9='/Volumes/MACDOC/works/git/complexnetworkmodel/bin2.80.9'
